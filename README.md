@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanErikHj
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Machine Learning and AI
+- 🌱 I’m currently 
+- 💞️ I’m looking to.
 - 📫 How to reach me jan.erik.hjelseth@outlook.com
 
 <!---
