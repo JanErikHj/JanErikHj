@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanErikHj
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently 
+- 👀 I’m interested in Data Science, Machine Learning, AI, electronics, sensors, etc...
+- 🌱 I’m currently starting a home automation project
 - 💞️ I’m looking to.
 - 📫 How to reach me jan.erik.hjelseth@outlook.com
 
